@@ -16,6 +16,12 @@
 			"homepage": "http://simplehtmldom.sourceforge.net/"
 		}
 	],
+    "authors": [
+      {
+        "name": "Lenon Leite",
+        "email": "lenonleite@gmail.com",
+      }
+    ],
 	"autoload": {
 		"classmap": ["simple_html_dom.php"],
 		"files": ["simple_html_dom.php"]
